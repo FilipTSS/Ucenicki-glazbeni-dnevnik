@@ -82,3 +82,4 @@ Planirane stranice aplikacije:
 
 Primjer rasporeda stranice:
 ![Izgled aplikacije](images/image.jpg)
+---
